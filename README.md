@@ -1,5 +1,5 @@
 # RecruitmentTaskComarch
-Repozytorium na zadanie rekrutacyjne dla firmy Comarch
+Repository for a recruitment assignment for Comarch
 
 ## Building and installing
 
